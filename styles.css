@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+table{
+	width: 100%
+}
+
+thead{
+	background-color: rgb(210, 15, 15, 0.9);
+}
+
+#row1{
+	background-color: rgb(210, 15, 15, 0.5);
+}
+
+#row2{
+	background-color: rgb(210, 15, 15, 0.1);
+}
+#row3{
+	background-color: rgb(112, 112, 112, 0.3);
+}
